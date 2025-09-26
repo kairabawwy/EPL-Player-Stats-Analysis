@@ -1,4 +1,5 @@
 EPL Player Stats Analysis & Prediction
+
 Overview
 This project analyzes English Premier League (EPL) player statistics to uncover insights and predict player performance. It combines data analysis, visualization, and machine learning to answer questions such as:
     Who are the top goal scorers and assist providers?
